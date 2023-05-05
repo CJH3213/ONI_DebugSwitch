@@ -1,0 +1,11 @@
+参考网址：https://q.cnblogs.com/q/120239/
+
+通过Registry.LocalMachine获取注册表，比实际注册表内容少
+
+写注册表的程序的目标平台（x86/x64的那个）和当前这个获取注册表信息的程序目标平台不一致导致。改用RegistryKey.OpenBaseKey方法获取LocalMachine。如下：
+RegistryKey advanced = null;
+RegistryKey LM32 = RegistryKey.OpenBaseKey(RegistryHive.LocalMachine, RegistryView.Registry32);
+advanced = LM32.OpenSubKey(_advancedPath);
+RegistryKey LM64 = RegistryKey.OpenBaseKey(RegistryHive.LocalMachine, RegistryView.Registry64);
+advanced = LM64.OpenSubKey(_advancedPath);
+其中一个必然能获取到

@@ -1,0 +1,11 @@
+E:\CJHFiles\.NET\缺氧游戏debug开关\缺氧游戏debug开关\缺氧游戏debug开关\bin\Debug\缺氧游戏debug开关.exe.config
+E:\CJHFiles\.NET\缺氧游戏debug开关\缺氧游戏debug开关\缺氧游戏debug开关\bin\Debug\缺氧游戏debug开关.exe
+E:\CJHFiles\.NET\缺氧游戏debug开关\缺氧游戏debug开关\缺氧游戏debug开关\bin\Debug\缺氧游戏debug开关.pdb
+E:\CJHFiles\.NET\缺氧游戏debug开关\缺氧游戏debug开关\缺氧游戏debug开关\obj\Debug\缺氧游戏debug开关.csproj.AssemblyReference.cache
+E:\CJHFiles\.NET\缺氧游戏debug开关\缺氧游戏debug开关\缺氧游戏debug开关\obj\Debug\缺氧游戏debug开关.csproj.SuggestedBindingRedirects.cache
+E:\CJHFiles\.NET\缺氧游戏debug开关\缺氧游戏debug开关\缺氧游戏debug开关\obj\Debug\缺氧游戏debug开关.Form1.resources
+E:\CJHFiles\.NET\缺氧游戏debug开关\缺氧游戏debug开关\缺氧游戏debug开关\obj\Debug\缺氧游戏debug开关.Properties.Resources.resources
+E:\CJHFiles\.NET\缺氧游戏debug开关\缺氧游戏debug开关\缺氧游戏debug开关\obj\Debug\缺氧游戏debug开关.csproj.GenerateResource.cache
+E:\CJHFiles\.NET\缺氧游戏debug开关\缺氧游戏debug开关\缺氧游戏debug开关\obj\Debug\缺氧游戏debug开关.csproj.CoreCompileInputs.cache
+E:\CJHFiles\.NET\缺氧游戏debug开关\缺氧游戏debug开关\缺氧游戏debug开关\obj\Debug\缺氧游戏debug开关.exe
+E:\CJHFiles\.NET\缺氧游戏debug开关\缺氧游戏debug开关\缺氧游戏debug开关\obj\Debug\缺氧游戏debug开关.pdb
