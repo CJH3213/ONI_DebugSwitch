@@ -104,7 +104,7 @@ namespace 缺氧游戏debug开关
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.comboBox1);
             this.panel1.Location = new System.Drawing.Point(0, 61);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(365, 38);
             this.panel1.TabIndex = 4;
@@ -116,7 +116,7 @@ namespace 缺氧游戏debug开关
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel2.Controls.Add(this.textBox1);
             this.panel2.Location = new System.Drawing.Point(0, 98);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(365, 379);
             this.panel2.TabIndex = 5;
@@ -127,7 +127,7 @@ namespace 缺氧游戏debug开关
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel3.Controls.Add(this.button1);
             this.panel3.Location = new System.Drawing.Point(0, 0);
-            this.panel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(365, 59);
             this.panel3.TabIndex = 6;
